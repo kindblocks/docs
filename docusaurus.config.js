@@ -88,7 +88,11 @@ const config = {
             items: [
               {
                 label: "Twitter",
-                href: "https://twitter.com/daalbeat",
+                href: "https://twitter.com/kindblocks",
+              },
+              {
+                label: "Community Forum",
+                href: "https://community.kindblocks.xyz",
               },
             ],
           },
