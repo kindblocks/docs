@@ -50,7 +50,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "Kind Blocks (Alpha)",
+        title: "(Alpha)",
         logo: {
           alt: "Kind Blocks Logo",
           src: "img/kindblocks.png",
