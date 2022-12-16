@@ -63,6 +63,12 @@ const config = {
             label: "Docs",
           },
           {
+            href: "https://verify.kindblocks.xyz",
+            position: "right",
+            label: "Verification",
+            target: "_self",
+          },
+          {
             href: "https://alpha.kindblocks.xyz",
             position: "right",
             label: "Alpha App",
